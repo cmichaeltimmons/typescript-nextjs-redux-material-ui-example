@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/treetips/typescript-nextjs-redux-material-ui-example)
+
 # typescript-nextjs-redux-material-ui-example
 
 This using typescript, next.js, redux, material-ui is simple, and is a sample corresponding to the server side rendering.
